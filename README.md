@@ -4,8 +4,8 @@ This project is a simple Linktree-style website that allows users to showcase th
 
 ## Project Structure
 
-[!WARNING]
-This repo is still in a pre-alpha state. Expect some issues.
+> [!WARNING]
+> This repo is still in a pre-alpha state. Expect some issues.
 
 ```
 mylinks
