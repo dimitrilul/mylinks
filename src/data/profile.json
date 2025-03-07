@@ -1,0 +1,32 @@
+{
+  "name": "Dimitri GHG",
+  "description": "Developer & Creator",
+  "profileImage": "https://via.placeholder.com/150",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/yourusername",
+      "icon": "fab fa-github"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/yourusername",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/yourusername",
+      "icon": "fab fa-twitter"
+    },
+    {
+      "title": "Personal Website",
+      "url": "https://yourwebsite.com",
+      "icon": "fas fa-globe"
+    },
+    {
+      "title": "Contact Me",
+      "url": "mailto:your.email@example.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}
