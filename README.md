@@ -5,7 +5,7 @@ This project is a simple Linktree-style website that allows users to showcase th
 ## Project Structure
 
 > [!WARNING]
-> This repo is still in a pre-alpha state. Expect some issues.
+> This repo is still in a beta.
 
 ```
 mylinks
@@ -37,7 +37,7 @@ mylinks
 
 ## Usage
 
-- Edit the `src/data/profile.json` file to update your name, description, and links.
+- Edit the `src/data/profile.json` file to update your name, description, profile picture and links. (using Gravatar for profile pictures is recommended)
 - Customize the styles in `src/css/style.css` if desired.
 - The JavaScript in `src/js/main.js` will automatically fetch and display the data from the JSON file.
 
