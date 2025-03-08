@@ -1,32 +1,22 @@
 {
-  "name": "Dimitri GHG",
-  "description": "Developer & Creator",
-  "profileImage": "https://via.placeholder.com/150",
+  "name": "your name",
+  "description": "Change the links in /src/data/profile.json",
+  "profileImage": "https://gravatar.com/avatar/yourcalculatedemailhash",
   "links": [
     {
-      "title": "GitHub",
-      "url": "https://github.com/yourusername",
+      "title": "Title 1",
+      "url": "https://github.com/dimitrilul",
       "icon": "fab fa-github"
     },
     {
-      "title": "LinkedIn",
-      "url": "https://linkedin.com/in/yourusername",
-      "icon": "fab fa-linkedin"
+      "title": "Title 2",
+      "url": "https://github.com/dimitrilul",
+      "icon": "fab fa-github"
     },
     {
-      "title": "Twitter",
-      "url": "https://twitter.com/yourusername",
-      "icon": "fab fa-twitter"
-    },
-    {
-      "title": "Personal Website",
-      "url": "https://yourwebsite.com",
-      "icon": "fas fa-globe"
-    },
-    {
-      "title": "Contact Me",
-      "url": "mailto:your.email@example.com",
-      "icon": "fas fa-envelope"
+      "title": "Title 3",
+      "url": "https://github.com/dimitrilul",
+      "icon": "fab fa-github"
     }
   ]
 }
